@@ -12,6 +12,7 @@ Create a Queue with the name "Queue_Research_Client_Check"<br>
 ![orcqueue](https://user-images.githubusercontent.com/20600105/200640288-5b5c88a9-2156-4f42-a326-0cde75da3764.png)
 
 <br>
+<h1>DESCRIPTION</h1><br>
 Run the Dispatcher to login into the ACME system, extract the Work Items and store it into the Queue<br>
 Run the Performer to process all the steps from the challenge.<br>
 The PDFs will be stored into Data/Input and after the process will be moved to Data/Output<br>
