@@ -2,7 +2,7 @@
 Process to solve the challenge from https://acme-test.uipath.com/hubfs/WI2%20-%20Research%20Client%20Check%20Copy.pdf
 <br>
 Process running: LINK WILL BE GENERATED
-<br>
+<br><br>
 Unzip the Folder on your computer<br>
 Create an Asset with your login and password inside your Orchestrator with the name "ACME_Credential"<br>
 Create a Queue with the name "Queue_Research_Client_Check"<br>
