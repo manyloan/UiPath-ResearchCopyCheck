@@ -6,7 +6,7 @@ Process running: LINK WILL BE GENERATED
 <h1>SETUP</h1><br>
 Unzip the Folder on your computer<br>
 Create an Asset with your login and password inside your Orchestrator with the name "ACME_Credential"<br>
-![image](https://user-images.githubusercontent.com/20600105/200637754-14edc3c3-9981-4f99-9065-91d268fac943.png)
+![orcasset](https://user-images.githubusercontent.com/20600105/200864901-d41757ad-90ee-4c44-ac4d-dd3c295841f4.png)
 
 Create a Queue with the name "Queue_Research_Client_Check"<br>
 ![orcqueue](https://user-images.githubusercontent.com/20600105/200640288-5b5c88a9-2156-4f42-a326-0cde75da3764.png)
